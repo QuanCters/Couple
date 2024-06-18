@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "218396096059",
+    "firebase_url": "https://react-native-d9f93-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "react-native-d9f93",
+    "storage_bucket": "react-native-d9f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218396096059:android:037c5faa0bfe5a7fdace1e",
+        "android_client_info": {
+          "package_name": "com.quancters.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNrrY1NKfz1ny0Wk2lJJnW3GVdr5Es1nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
